@@ -1,0 +1,1 @@
+Checked it code on Atmega 328p. The next step is to create an i2c bus error handler and adapt it to Attiny.In future rewrite the work of the executable code by doing it on interruptions.
