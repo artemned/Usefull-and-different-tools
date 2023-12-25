@@ -1,0 +1,2 @@
+Tested this code on an ATiny 25.
+It shows interaction with the MAX6675 sensor via the SPI interface.
