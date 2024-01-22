@@ -1,0 +1,2 @@
+This is a very good example as work clear timer compare on match mode for AVR microcontroller`s.
+Function get_millis return numbers milliseconds at start work main program. 
